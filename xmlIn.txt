@@ -1,0 +1,23 @@
+<xml ? ....?///>
+<num1>
+	<txt>dt1</txt>
+	<txt>dt2</txt>
+	<num45>
+		<txt>
+			<str>data1</str>
+		</txt>
+		<sam>dt4</sam>
+	</num45>
+</num1>
+<num1>
+	<sam>dt3</sam>
+	<div>
+		<input>
+			<txt>dt66</txt>
+		</input>
+		<txt>
+	</div>
+	<tree>
+		<div>NULL</div>
+	</tree>
+</num1>
